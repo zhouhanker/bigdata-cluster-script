@@ -8,3 +8,4 @@
 2. 在 /opt/pkg下需要有cdh6.3.2-install-pkg.tar.gz 这个包
 3. 待安装的主机 需要配置hostname 并调通内网和外网
 ```
+> ![image](./imgs/img1.png)
